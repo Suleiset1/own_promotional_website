@@ -1,0 +1,115 @@
+﻿body {
+    font-family: 'Cascadia Code', sans-serif;
+    margin: 100px;
+    padding: 0;
+    background-color: #fdddff;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+}
+
+.right-column {
+    flex: 2;
+    padding: 20px;
+}
+
+.image {
+    display: flex;
+    align-items: center;
+}
+
+header section {
+    background-color: #ffc5f0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+
+img {
+    max-width: 150px;
+    border-radius: 50px;
+    margin-right: 20px;
+}
+
+/* Başlık stillendirme */
+h1 {
+    margin: 0;
+    margin-left: 10px;
+    font-size: 50px;
+    color: gray;
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 35px;
+    color: gray;
+}
+
+strong{
+    font-size:20px;
+}
+
+.contact p {
+    margin: 10px 0;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: #000000;
+    padding: 5px 0;
+    background-color: gray;
+}
+.experience h2 {
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    background-color: #ffc5f0;
+}
+
+.education h2 {
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    background-color: #ffc5f0;
+}
+
+.skills h2 {
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    background-color: #ffc5f0;
+}
+
+.certificates h2 {
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    background-color: #ffc5f0;
+}
+
+.workshops h2 {
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    background-color: #ffc5f0;
+}
+
+.languages h2 {
+    text-align: center;
+    color: gray;
+    padding: 10px 0;
+    background-color: #ffc5f0;
+}
+
+.ınfo {
+    text-align: center;
+    padding: 10px 0;
+}
